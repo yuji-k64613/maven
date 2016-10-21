@@ -1,0 +1,5 @@
+build:
+  image: java
+  commands:
+    - mvn install -q
+    - mvn test
