@@ -2,4 +2,3 @@ build:
   image: java:openjdk-7
   commands:
     - mvn install -q
-    - mvn test
